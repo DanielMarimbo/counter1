@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.header{
+    font-family: sans-serif;
+    margin-top: 180px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: rgba(17, 30, 73, 0.911);
+}
+
+.span{
+    font-family: sans-serif;
+    margin: 20px;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(17, 30, 73, 0.911);;
+}
+
+button{
+    padding: 6px 12px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
